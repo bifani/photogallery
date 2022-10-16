@@ -4,7 +4,7 @@
   "title": "Simone Bifani | Photo Gallery",
   "sort-albums-by": "title",
   "sort-media-by": "filename",
-  "download-photos": "resize",
+  "download-photos": "large",
   "cleanup": true,
   "theme": "cards",
   "css": "./custom.css",
